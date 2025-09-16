@@ -1,0 +1,36 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+.card {
+   
+    background: white;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+    width: 400px;
+   
+    
+}
+
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.card img {
+    border-radius: 8px;
+}
+
+.card p {
+    color: red;
+    font-weight: bold;
+}
